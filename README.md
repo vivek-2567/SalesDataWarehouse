@@ -42,9 +42,8 @@ SQL-based dashboards provide insights into:
 - Enhanced query performance by **40%** via efficient data modeling.
 
 ## Links
--[MySQL](https://www.mysql.com)
-
--[Git Repo](https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main)
+- [MySQL](https://www.mysql.com)
+- [Git Repo](https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main)
 
 ## 💪 Technologies Used
 - **MySQL** - Database Management

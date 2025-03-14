@@ -2,7 +2,7 @@
 
 A comprehensive Data Warehouse project implementing Medallion Architecture (Bronze, Silver, Gold layers) using **MySQL**. The system integrates sales data from ERP and CRM sources to provide analytical reporting and actionable insights.
 
-![Medallion Architecture]()
+![Medallion Architecture](docs/data_architecture.png)
 
 ## 🚀 Project Overview
 This project demonstrates how to design and build a modern data warehouse optimized for analytical queries and reporting. It focuses on transforming raw data into valuable business insights.
@@ -43,6 +43,7 @@ SQL-based dashboards provide insights into:
 
 ## Links
 -[MySQL](https://www.mysql.com)
+
 -[Git Repo](https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main)
 
 ## 💪 Technologies Used

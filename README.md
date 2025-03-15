@@ -1,4 +1,4 @@
-# Sales Data Warehouse & Analytics System
+# Sales Data Warehouse & Analysis
 
 A comprehensive Data Warehouse project implementing Medallion Architecture (Bronze, Silver, Gold layers) using **MySQL**. The system integrates sales data from ERP and CRM sources to provide analytical reporting and actionable insights.
 
